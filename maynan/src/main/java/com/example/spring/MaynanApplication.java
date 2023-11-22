@@ -1,13 +1,13 @@
-package com.example.mainan;
+package com.example.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MainanApplication {
+public class MaynanApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MainanApplication.class, args);
+		SpringApplication.run(MaynanApplication.class, args);
 	}
 
 }

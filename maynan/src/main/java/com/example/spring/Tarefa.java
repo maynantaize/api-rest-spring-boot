@@ -1,4 +1,4 @@
-package com.example.mainan;
+package com.example.spring;
 
 import org.springframework.data.annotation.Id;
 

@@ -1,7 +1,7 @@
-package com.example.mainan;
+package com.example.spring;
 
-import com.example.mainan.Tarefa;
-import com.example.mainan.RepositoryTarefa;
+import com.example.spring.Tarefa;
+import com.example.spring.RepositoryTarefa;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

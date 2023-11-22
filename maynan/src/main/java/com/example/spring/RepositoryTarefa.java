@@ -1,6 +1,6 @@
-package com.example.mainan;
+package com.example.spring;
 
-import com.example.mainan.Tarefa;
+import com.example.spring.Tarefa;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface RepositoryTarefa extends JpaRepository<Tarefa, Integer> {

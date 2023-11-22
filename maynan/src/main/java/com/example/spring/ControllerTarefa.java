@@ -1,13 +1,12 @@
-package com.example.mainan;
+package com.example.spring; 
 
+import java.util.List;
 
-import com.example.mainan.Tarefa;
-import com.example.mainan.ServiceTarefa;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.List;
+import com.example.spring.Tarefa;
 
 @RestController
 @RequestMapping("/tarefas")
